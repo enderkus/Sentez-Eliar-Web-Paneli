@@ -7,5 +7,5 @@ Sentez ERP veritabanı ve Eliar boyahane yönetim sistemi veritabanından elde e
 
 Mevcut proje belirli bir işletmenin veritabanına göre üretilmiştir. Farklı işletmelerin veritabanı yapılarına göre farklılık gösterebilmektedir.
 
-<img src="https://raw.githubusercontent.com/enderkus/Sentez-Eliar-Web-Paneli/master/r2.png" />
+<img src="https://github.com/enderkus/Sentez-Eliar-Web-Paneli/blob/master/r2.png" />
 <img src="https://raw.githubusercontent.com/enderkus/Sentez-Eliar-Web-Paneli/master/r1.png" />
